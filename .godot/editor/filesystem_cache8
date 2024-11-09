@@ -1,0 +1,84 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731127820
+export_presets.cfg::TextFile::-1::1730042333::0::1::::<><>::
+icon.svg::CompressedTexture2D::5200897740824062053::1730042333::1731127113::1::::<><>::
+::res://assets/::1730182513
+::res://assets/Characters/::1731127113
+Basic Charakter Actions.png::CompressedTexture2D::7188414675153787289::1730042336::1731127113::1::::<><>::
+Basic Charakter Spritesheet.png::CompressedTexture2D::6410254902497558488::1730042336::1731127113::1::::<><>::
+Egg_And_Nest.png::CompressedTexture2D::8522784235320170066::1730042336::1731127113::1::::<><>::
+Free Chicken Sprites.png::CompressedTexture2D::8240857771935726684::1730042336::1731127113::1::::<><>::
+Free Cow Sprites.png::CompressedTexture2D::2660394460999401883::1730042336::1731127113::1::::<><>::
+Human-Worker-Red.png::CompressedTexture2D::64375094779801652::1730042336::1731127113::1::::<><>::
+Tools.png::CompressedTexture2D::371660085305541945::1730042336::1731127113::1::::<><>::
+::res://assets/Fonts/::1731127112
+PixelOperator8-Bold.ttf::FontFile::1454481398383726731::1730042336::1731127112::1::::<><>::
+PixelOperator.ttf::FontFile::2740052322699933735::1730042336::1731127112::1::::<><>::
+::res://assets/music/::1731127112
+cartoon-phone-voice-88637.mp3::AudioStreamMP3::121724738964416746::1730043663::1731127112::1::::<><>::
+ForestWalk-320bit(chosic.com).mp3::AudioStreamMP3::3191846560775406546::1730043663::1731127112::1::::<><>::
+Voicy_ARK Dodo SFX .mp3::AudioStreamMP3::8956859970962519045::1730043663::1731127112::1::::<><>::
+::res://assets/Objects/::1731127113
+Basic_Furniture.png::CompressedTexture2D::4932564498982041420::1730042336::1731127113::1::::<><>::
+Basic_Grass_Biom_things.png::CompressedTexture2D::241244246275306181::1730042336::1731127113::1::::<><>::
+Basic_Plants.png::CompressedTexture2D::2968755477895239423::1730042337::1731127113::1::::<><>::
+Basic_tools_and_meterials.png::CompressedTexture2D::611004977246577204::1730042337::1731127113::1::::<><>::
+Cactus_Sprite_Sheet.png::CompressedTexture2D::215541509573630191::1730042337::1731127113::1::::<><>::
+Chest.png::CompressedTexture2D::1758809586929771501::1730042337::1731127113::1::::<><>::
+Egg_item.png::CompressedTexture2D::8853845018831148093::1730042337::1731127113::1::::<><>::
+Free_Chicken_House.png::CompressedTexture2D::5167084839961191304::1730042337::1731127113::1::::<><>::
+inventory-background.png::CompressedTexture2D::1191642799890623851::1730042337::1731127113::1::::<><>::
+Paths.png::CompressedTexture2D::6270925279117349177::1730042337::1731127113::1::::<><>::
+pngegg.png::CompressedTexture2D::6744393758080331917::1730042337::1731127113::1::::<><>::
+Simple_Milk_and_grass_item.png::CompressedTexture2D::3119236287390563632::1730042337::1731127113::1::::<><>::
+trash.png::CompressedTexture2D::4787480540953549331::1730042781::1731127113::1::::<><>::
+Trees+.png::CompressedTexture2D::80953080994148574::1730042337::1731127113::1::::<><>::
+water.png::CompressedTexture2D::8494452556566028194::1730042337::1731127113::1::::<><>::
+Wood_Bridge.png::CompressedTexture2D::2454456421046500313::1730042337::1731127113::1::::<><>::
+::res://assets/Sprout Lands color pallet/::1731127113
+Sprout Lands defautlt palette snip.PNG::CompressedTexture2D::4247331620673236582::1730042337::1731127113::1::::<><>::
+Sprout Lands defautlt palette.png::CompressedTexture2D::907805864382001193::1730042337::1731127113::1::::<><>::
+::res://assets/Tilesets/::1731127113
+ashlands_tileset.png::CompressedTexture2D::2583435293416387338::1730042337::1731127113::1::::<><>::
+Bitmask references 1.png::CompressedTexture2D::7237669220872240784::1730042337::1731127113::1::::<><>::
+Bitmask references 2.png::CompressedTexture2D::1156677531632131931::1730042337::1731127113::1::::<><>::
+Doors.png::CompressedTexture2D::1344673052329690650::1730042337::1731127113::1::::<><>::
+Fences.png::CompressedTexture2D::8000114809054275320::1730042337::1731127113::1::::<><>::
+Grass.png::CompressedTexture2D::1646302236581669031::1730042337::1731127113::1::::<><>::
+Hills.png::CompressedTexture2D::4268976853948408531::1730042337::1731127113::1::::<><>::
+Tilled_Dirt.png::CompressedTexture2D::4395417182215466000::1730042337::1731127113::1::::<><>::
+Tilled_Dirt_v2.png::CompressedTexture2D::183611027150070603::1730042337::1731127113::1::::<><>::
+Tilled_Dirt_Wide.png::CompressedTexture2D::8362353430895276467::1730042337::1731127113::1::::<><>::
+Tilled_Dirt_Wide_v2.png::CompressedTexture2D::3563071442323549818::1730042337::1731127113::1::::<><>::
+Water.png::CompressedTexture2D::44395528741893045::1730042337::1731127113::1::::<><>::
+Wooden_House_Roof_Tilset.png::CompressedTexture2D::5408414005888055479::1730042337::1731127113::1::::<><>::
+Wooden_House_Walls_Tilset.png::CompressedTexture2D::1399970189660160092::1730042337::1731127113::1::::<><>::
+::res://dialogue/::1730044378
+dialogue-npc.json::JSON::-1::1730042337::0::1::::<><>::
+dialogue.gd::GDScript::-1::1730044289::0::1::::<>Control<>::
+dialogue.tscn::PackedScene::7716976053679643924::1730044378::0::1::::<><>::res://dialogue/dialogue.gd<>uid://q8ighljup7j8::::res://assets/Objects/inventory-background.png<>uid://by712x0qrek5::::res://assets/music/cartoon-phone-voice-88637.mp3<>uid://d0u1f7opkkdqj::::res://assets/music/Voicy_ARK Dodo SFX .mp3
+::res://docs/::1731127845
+index.apple-touch-icon.png::CompressedTexture2D::6573859675167851262::1731127820::1731127858::1::::<><>::
+index.icon.png::CompressedTexture2D::6331333493101678593::1731127820::1731127858::1::::<><>::
+index.png::CompressedTexture2D::3574908357262091187::1731127820::1731127858::1::::<><>::
+::res://scenes/::1731127156
+Cactus.tscn::PackedScene::9051710797856015790::1731117480::0::1::::<><>::uid://dcn64muie4r0::::res://assets/Objects/Cactus_Sprite_Sheet.png
+game.gd::GDScript::-1::1730043881::0::1::::<>Node2D<>::
+game.tscn::PackedScene::3283362807479519508::1731127156::0::1::::<><>::res://scenes/game.gd<>uid://c7n4licchq407::::res://scenes/player.tscn<>res://scenes/game_manager.gd<>res://scripts/player.gd<>uid://xpqmfbwr12cx::::res://assets/Tilesets/Grass.png<>uid://ljocmfqff040::::res://scenes/trash.tscn<>uid://uytdjeivlqt4::::res://assets/Fonts/PixelOperator8-Bold.ttf<>res://scenes/title_label.gd<>res://scenes/title_label2.gd<>uid://b126opnkv775h::::res://assets/Tilesets/Hills.png<>uid://bc2o2i6o6exty::::res://assets/Tilesets/ashlands_tileset.png<>uid://b3vf44536fxp5::::res://assets/Tilesets/Tilled_Dirt.png<>res://scenes/timer_label.gd<>uid://dta1nl133bcvi::::res://assets/Objects/water.png<>uid://ccms6wyu20qiu::::res://scenes/npc.tscn<>uid://blqfim8jmftq5::::res://assets/music/ForestWalk-320bit(chosic.com).mp3
+game_manager.gd::GDScript::-1::1730043107::0::1::::<>Node<>::
+grass.tscn::PackedScene::6131821004183399238::1730042489::0::1::::<><>::uid://do4i0wncddgv::::res://assets/Objects/Basic_Grass_Biom_things.png
+label.gd::GDScript::-1::1730042337::0::1::::<>Label<>::
+npc.gd::GDScript::-1::1730042337::0::1::::<>CharacterBody2D<>::
+npc.tscn::PackedScene::4939141046726632412::1730042337::0::1::::<><>::uid://6gipflqq6ts::::res://assets/Characters/Human-Worker-Red.png<>res://scenes/npc.gd<>uid://dh7fp6f1b7dlc::::res://dialogue/dialogue.tscn
+player.tscn::PackedScene::7047502134506495254::1731117480::0::1::::<><>::uid://dpn6yumojw87y::::res://assets/Characters/Free Chicken Sprites.png
+stone.tscn::PackedScene::4424331684408728697::1730042337::0::1::::<><>::uid://c3dbgd46yw43r::::res://assets/Objects/pngegg.png
+timer_label.gd::GDScript::-1::1730044012::0::1::::<>Label<>::
+title_label2.gd::GDScript::-1::1730042337::0::1::::<>Label<>::
+title_label.gd::GDScript::-1::1730042337::0::1::::<>Label<>::
+trash.gd::GDScript::-1::1730043377::0::1::::<>Area2D<>::
+trash.tscn::PackedScene::791510928029533199::1730044290::0::1::::<><>::uid://cahddto45hgu2::::res://assets/Objects/trash.png<>res://scenes/trash.gd
+Tree.tscn::PackedScene::782480371877626045::1730044604::0::1::::<><>::uid://bfhjx7apl6es::::res://assets/Objects/Trees+.png
+VolcanoRock.tscn::PackedScene::3142411349352816174::1730042337::0::1::::<><>::uid://bc2o2i6o6exty::::res://assets/Tilesets/ashlands_tileset.png
+VolcanoTree.tscn::PackedScene::3035667701771445539::1731117480::0::1::::<><>::uid://bfhjx7apl6es::::res://assets/Objects/Trees+.png
+::res://scripts/::1730042337
+player.gd::GDScript::-1::1730042337::0::1::::<>CharacterBody2D<>::
