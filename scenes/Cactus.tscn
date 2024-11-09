@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://d17ymbwekobes"]
+
+[ext_resource type="Texture2D" uid="uid://dcn64muie4r0" path="res://assets/Objects/Cactus_Sprite_Sheet.png" id="1_w4ykp"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_mfvrm"]
+size = Vector2(17, 18)
+
+[node name="RigidBody2D" type="RigidBody2D"]
+z_index = 5
+gravity_scale = 0.0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+z_index = 6
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_w4ykp")
+region_enabled = true
+region_rect = Rect2(0, 66, 60, 62)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+z_index = 5
+position = Vector2(0.5, 2)
+shape = SubResource("RectangleShape2D_mfvrm")

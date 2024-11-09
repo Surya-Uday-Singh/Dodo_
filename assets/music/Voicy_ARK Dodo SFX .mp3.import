@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d0u1f7opkkdqj"
+path="res://.godot/imported/Voicy_ARK Dodo SFX .mp3-455a164280d4f94d5385670d2e70369d.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Voicy_ARK Dodo SFX .mp3"
+dest_files=["res://.godot/imported/Voicy_ARK Dodo SFX .mp3-455a164280d4f94d5385670d2e70369d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

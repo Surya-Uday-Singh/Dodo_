@@ -1,0 +1,55 @@
+[gd_scene load_steps=5 format=3 uid="uid://dh7fp6f1b7dlc"]
+
+[ext_resource type="Script" path="res://dialogue/dialogue.gd" id="1_62x4b"]
+[ext_resource type="Texture2D" uid="uid://q8ighljup7j8" path="res://assets/Objects/inventory-background.png" id="1_k16ls"]
+[ext_resource type="AudioStream" uid="uid://by712x0qrek5" path="res://assets/music/cartoon-phone-voice-88637.mp3" id="3_utmbo"]
+[ext_resource type="AudioStream" uid="uid://d0u1f7opkkdqj" path="res://assets/music/Voicy_ARK Dodo SFX .mp3" id="4_a3xlb"]
+
+[node name="Dialogue" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -72.0
+offset_top = -89.0
+offset_right = -72.0
+offset_bottom = -89.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource("1_62x4b")
+
+[node name="NinePatchRect" type="NinePatchRect" parent="."]
+layout_mode = 0
+offset_left = 30.0
+offset_top = 23.0
+offset_right = 92.26
+offset_bottom = 66.0
+scale = Vector2(1.3, 1.3)
+texture = ExtResource("1_k16ls")
+patch_margin_left = 3
+patch_margin_top = 3
+patch_margin_right = 3
+patch_margin_bottom = 3
+
+[node name="Name" type="RichTextLabel" parent="NinePatchRect"]
+layout_mode = 0
+offset_left = 3.0
+offset_right = 116.0
+offset_bottom = 27.0
+scale = Vector2(0.5, 0.5)
+text = "Name"
+
+[node name="Text" type="RichTextLabel" parent="NinePatchRect"]
+layout_mode = 0
+offset_left = 6.0
+offset_top = 14.0
+offset_right = 182.0
+offset_bottom = 99.0
+scale = Vector2(0.3, 0.3)
+text = "Once, a longe time ago there was a Do-Do"
+
+[node name="AudioGuy" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_utmbo")
+volume_db = 12.0
+
+[node name="AudioDodo" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_a3xlb")
+volume_db = 10.0

@@ -1,0 +1,24 @@
+[gd_scene load_steps=3 format=3 uid="uid://lfblqbj15bcf"]
+
+[ext_resource type="Texture2D" uid="uid://bfhjx7apl6es" path="res://assets/Objects/Trees+.png" id="1_6ryge"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_y24pn"]
+size = Vector2(20.5, 12)
+
+[node name="RigidBody2D" type="RigidBody2D"]
+z_index = 5
+gravity_scale = 0.0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+z_index = 6
+z_as_relative = false
+position = Vector2(1.19209e-07, 0)
+scale = Vector2(0.374, 0.312)
+texture = ExtResource("1_6ryge")
+region_enabled = true
+region_rect = Rect2(0, 177.146, 79.1655, 100.825)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+z_index = 6
+position = Vector2(-1.25, 7)
+shape = SubResource("RectangleShape2D_y24pn")

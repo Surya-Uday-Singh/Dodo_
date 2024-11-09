@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://b4bgdjqpi2ixt"]
+
+[ext_resource type="Texture2D" uid="uid://c3dbgd46yw43r" path="res://assets/Objects/pngegg.png" id="1_hdecl"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_x40hu"]
+radius = 4.0
+
+[node name="RigidBody2D" type="RigidBody2D"]
+z_index = 3
+gravity_scale = 0.0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.0894495, 0.0902062)
+texture = ExtResource("1_hdecl")
+region_enabled = true
+region_rect = Rect2(265.988, 786.497, 109.032, 97.308)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_x40hu")
